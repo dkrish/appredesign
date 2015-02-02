@@ -62,3 +62,20 @@ border-bottom: 1px #fff;
 -o-transition: all 300ms ease-in;
 transition: all 300ms ease-in;
 }
+
+#container
+{
+    margin-top:200px;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+#footer
+{
+    background-color:grey;
+    padding:20px;
+}
+
+body
+{
+    height:auto;
+}
