@@ -13,9 +13,9 @@
         <section class="top-bar-section">
           <!-- Right Nav Section -->
           <ul id="links" class="right">
-            <li><a href="/compsci">Courses</a></li>
+            <li><a href="/compsci">Computer Science</a></li>
             <li><a href="/application">Apply</a></li> 
-            <li><a href="#">FAQ</a></li>
+            <li><a href="/faq">FAQ</a></li>
             
             <li><a href="mailto:info@theappacademy.us">Contact</a></li>
           </ul>

@@ -4,7 +4,7 @@
                 <ul id="footer-nav" class="menu">
                     <li><a href="/compsci">Courses</a></li>
                     <li><a href="/application">Apply</a></li>
-                    <li><a href="#">FAQ</a></li>
+                    <li><a href="/faq">FAQ</a></li>
                     <li><a href="mailto:info@theappacademy.us">Contact</a></li>
                 </ul>
             </div>   
