@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="css/hover-min.css" />
     <link href='http://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
     <script src="js/vendor/modernizr.js"></script>
-    <script src="js/stickyFooter.js"></script>
     
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-touch-icon-57x57.png">
