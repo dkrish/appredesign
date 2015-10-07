@@ -1,5 +1,5 @@
 
-      
+
 <div class="sticky">
       <nav class="top-bar" data-topbar role="navigation">
         <ul class="title-area">
@@ -14,10 +14,10 @@
           <!-- Right Nav Section -->
           <ul id="links" class="right">
             <li><a href="/compsci">Computer Science</a></li>
-            <li><a href="/application">Apply</a></li> 
+            <li><a href="/application">Apply</a></li>
             <li><a href="/faq">FAQ</a></li>
-            
-            <li><a href="mailto:info@theappacademy.us">Contact</a></li>
+
+            <li><a href="/contact">Contact</a></li>
           </ul>
 
         </section>
