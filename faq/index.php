@@ -16,70 +16,67 @@
     <script src="js/stickyFooter.js"></script>
   <script src="js/ga.js"></script>
   </head>
-  <body>     
-      
+  <body>
+
 <?php include '../header.php';?>
 
-<!--slider 
+<!--slider
         <div class="your-class">
           <div>your content</div>
           <div>your content</div>
           <div>your content</div>
         </div>
         end slider -->
-    
+
     <div class="cs-header-image">
         <h1 class="text-center">Answers to Frequently Asked Questions</h1>
      </div>
 
        <div id="faq-container" class="large full clearfix">
-           
+
            <div class="row">
-               <h3>What is The App Academy?</h3>
+               <h3>DO I NEED A LAPTOP TO PARTICIPATE IN THE APP ACADEMY?</h3>
 
-               <p>The App Academy at Pasadena High School is an innovative four-year high school program where students learn computer science through mobile, web and game development.   The App Academy is an academically rigorous four-year, 9th to 12th grade high school curriculum fulfilling UC/CSU a-g requirements. A partnership between Pasadena High School and the Pasadena Educational Foundation, the App Academy is one of the eight College & Career Pathways in the Pasadena Unified School District.</p>
+               <p>No, we provide you one! Every student in the App Academy is loaned a laptop to use while they are students in the App Academy. This laptop is yours to use 24/7 during the academic year, subject to certain terms and conditions. We request that each student use the laptop provided by The App Academy to make full use of the provided software packages and technical maintenance.</p>
 
-               <h3>What is The App Academy Laptop Program?</h3>
+               <h3>DO I NEED PREVIOUS PROGRAMMING EXPERIENCE TO JOIN THE APP ACADEMY IN 9TH GRADE?</h3>
 
-               <p>Every student in the App Academy is loaned a laptop to use while they are students in the App Academy.  This laptop is theirs to use 24/7 during the academic year, subject to certain terms and conditions.  We request that each student use the laptop provided by The App Academy to make full use of the provided software packages and technical maintenance.</p>
+               <p>Absolutely not! ANY incoming 9th grade student who meets <a href="../application">entrance requirements</a> and is interested in learning more about computer science is encouraged to apply to the App Academy.</p>
 
 
-               <h3>Do students need previous programming experience/math success to join The App Academy in 9th grade?</h3>
+               <h3>WHAT TYPES OF EXPERIENCES CAN I EXPECT TO HAVE AS AN APP ACADEMY STUDENT?</h3>
 
-               <p>Absolutely not! ANY incoming 9th grade student who meets entrance requirements and is interested in learning more about computer science is encouraged to apply to the App Academy.</p>
+               <p>Students are exposed to the exciting world of cutting-edge software development work in a variety of ways, including in-class guest speakers from tech start-ups, real-world software development projects infused into the classes, HACKATHONS, and more!</p>
 
-               <h3>What kinds of work-based learning activities will App Academy students have access to?</h3>
-	
-               <p>Students are exposed to the exciting world of cutting edge software development work in a variety of ways, including field trips to companies and colleges, in-class speakers from tech start-ups, real-world software development projects infused into the classes, and more.</p>
+               <h3>HOW DOES THE APP ACADEMY PREPARE STUDENTS FOR SUCCESS IN COLLEGE AND FUTURE CAREER?</h3>
 
-               <h3>How does The App Academy prepare students for success in college and career?</h3>
+               <p>The computer science curriculum is being developed from scratch to be state-of-the-art in high school computer science education. Skills developed include those required by top companies including Google, Microsoft, Yahoo, and Facebook. Projects include building a project portfolio, an online store, a blog engine, JavaScript and Android games, and a variety of Android mobile applications.  The App Academy teaches students 21st Century Skills including the four C’s of critical thinking and problem solving, communication, collaboration, and creativity and innovation, and will enable them to have the self-belief to succeed in future academic and professional aspirations in any field.</p>
 
-                <p>The computer science curriculum is being developed from scratch to be the state-of-the-art in high school computer science education.  Skills developed include those requirements of top companies including Google, Microsoft, Yahoo, and Facebook.  Projects include building a project portfolio, an online store, a blog engine, JavaScript and Android games, and a variety of Android mobile applications.</p>
+               <h3>IS THE APP ACADEMY AN AFTER SCHOOL/EXTRACURRICULAR PROGRAM?</h3>
 
-                <h3>Does it cost anything to join The App Academy?</h3>
+                <p>No, the App Academy is an academic program offered during the school day at Pasadena High School. To be a part of the App Academy, students must be in the PHS attendance zone or must apply for a permit to attend PHS through Open Enrollment.</p>
+
+                <h3>CAN I BE IN BAND, JROTC, OR TAKE AP CLASSES WHILE IN THE APP ACADEMY?</h3>
+                <p>Yes, you can! In fact, several of our current students actively participate in extracurricular activities and AP courses. The school counselors do their best to accommodate schedules according to each individual student’s needs.</p>
+
+
+                <h3>DOES IT COST ANYTHING TO JOIN THE APP ACADEMY?</h3>
+
                 <p>No, it is completely free for students to join.</p>
 
 
-                <h3>Is The App Academy an after school/extracurricular program?</h3>
+                <h3>AWESOME!! SO, HOW CAN I JOIN THE APP ACADEMY?</h3>
 
-                <p>The App Academy is a four-year academic program at Pasadena High School. To be a part of The App Academy, students must be in the PHS attendance zone or must apply for a permit to attend PHS through Open Enrollment.</p>
+                <p>Check out our application information, available here.</p>
 
 
-                <h3>How do students join The App Academy?</h3>
 
-                <p>Students must register with their counselors and apply directly to the Academy. The application is available <a href="http://www.theappacademy.us/application/" title="App Academy Application">on our website.</a></p>
-               
-               
-               
            </div>
-                      
-           
-           
+
+
+
        </div>
-           
+
 
 
     <?php include '../footer.php';?>
-
-
-
