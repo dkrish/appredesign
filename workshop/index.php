@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <base href="http://www.theappacademy.us/" />
-        <title>Contact Us | The App Academy</title>
+        <title>Workshop | The App Academy</title>
         <meta name="description" content="Computer Science Course Sequence for The App Academy at Pasadena High School">
         <meta name="keywords" content="HTML,CSS,PHP,jQuery,JavaScript,melonJS,Computer Science,Education,Android,High School">
         <meta name="author" content="PEF STEM">
@@ -29,15 +29,14 @@
             end slider -->
 
         <div class="cs-header-image">
-            <h1 class="text-center">Contact Us</h1>
+            <h1 class="text-center">Workshop Tutorial</h1>
          </div>
 
            <div id="cs-container" class="large full clearfix" style="height:900px;">
 
                           <div class="row">
-                            <h4><b>Contact Us</b></h4>
-                            <p>Got questions? Contact us at: <a href="mailto:info@theappacademy.us"</a>info@theappacademy.us</a></p>
-                            <p>Or give us a call at <b>(626) 396-3600 ext. 88520</b></p>
+                            <p><b>Workshop Tutorial:</b><a href="https://www.codecademy.com/courses/animate-your-name/0/1">Animate Your Name</a></p>
+                            <p>Interest Form:<a href="http://goo.gl/forms/H33Bgh5ibN">Click Here</a></p>
                </div>
 
            </div>
