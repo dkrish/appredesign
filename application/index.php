@@ -29,39 +29,25 @@
         end slider -->
 
     <div class="app-header-image">
-        <h1 class="text-center">Ninth Grade Application</h1>
+        <h1 class="text-center">Apply to the App Academy TODAY!</h1>
+        <h3 class="text-center">The App Academy is still accepting applications for the 2016-2017 school year!</h3>
 
      </div>
 
        <div id="app-container" class="large full clearfix">
 
-         <div id="app-eligibile" class="row">
-             <h4><b>Eligibility Requirements</b></h4>
-             <p>Note: In order to be eligible to be admitted to the App Academy, students must have earned <b>a cumulative middle school GPA of 2.0 (out of 4.0) or above.</b></p>
-         </div>
-
            <div id="app-note" class="row">
-               <h4>Check your High School attendance zone</h4>
-
-               <p>Before you apply, you need to check which high school attendance zone you are in.</p>
+               <h4><b>Please note: at this time, applications are limited to students who live INSIDE the PHS Attendance Zone.</b></h4>
 
                <ol>
-                 <li dir="ltr"><b>Option 1:</b> Check online at <a href="http://www.apps.schoolsitelocator.com/index.html?districtCode=19475">School Site Locator website</a></li>
-                 <li dir="ltr"><b>Option 2:</b> Call the PUSD Welcome Center at: <b>(626) 396-3600 ext. 8843</b></li>
+                 <li dir="ltr">You can enter your home address online to confirm your high school attendance zone here:<a class="white-text" href="http://www.apps.schoolsitelocator.com/index.html?districtCode=19475">School Site Locator website</a></li>
                </ol>
 
-               <h4>PLEASE NOTE: There are TWO different processes for applying, depending on where you live!</h4>
+           </div>
 
-               <ol>
-                 <li dir="ltr"><b>INSIDE THE PHS-ZONE:</b> If you live inside the PHS Zone, you can apply directly to the App Academy by filling out the <u>form below.</u></li>
-                 <li dir="ltr"><b>OUTSIDE THE PHS-ZONE:</b> If you live outside of the PHS Zone, you must apply to the App Academy through PUSD Open Enrollment.
-                   The 2016-2017 Open Enrollment application process will begin in January 2016, right after the Winter Recess. More detailed information will be available at:
-                   <a href="http://www.pusd.us">http://www.pusd.us</a></li>
-               </ol>
-
-
-
-
+           <div id="app-eligibile" class="row">
+               <h4><b>Eligibility Requirements</b></h4>
+               <p>Note: In order to be eligible to be admitted to the App Academy, students must have earned <b>a cumulative middle school GPA of 2.0 (out of 4.0) or above.</b></p>
            </div>
 
            <div class="row">
