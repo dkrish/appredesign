@@ -35,8 +35,8 @@
            <div id="cs-container" class="large full clearfix" style="height:900px;">
 
                           <div class="row">
-                            <p><b>Workshop Tutorial:</b><a href="https://www.codecademy.com/courses/animate-your-name/0/1">Animate Your Name</a></p>
-                            <p>Interest Form:<a href="http://goo.gl/forms/H33Bgh5ibN">Click Here</a></p>
+                            <p><b>Workshop Tutorial:</b><a href="https://www.codecademy.com/register?redirect=%2F" target="_blank">Code Academy</a></p>
+                            <p>Interest Form:<a href="http://goo.gl/forms/H33Bgh5ibN" target="_blank">Click Here</a></p>
                </div>
 
            </div>

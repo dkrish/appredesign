@@ -47,7 +47,7 @@
 
                <ol>
                  <li dir="ltr"><b>Option 1:</b> Check online at <a href="http://www.apps.schoolsitelocator.com/index.html?districtCode=19475">School Site Locator website</a></li>
-                 <li dir="ltr"><b>Option 2:</b> Call the PUSD Welcome Center at: <b>(626) 396-3600 ext. 8843</b></li>
+                 <li dir="ltr"><b>Option 2:</b> Call the PUSD Welcome Center at: <b>(626) 396-3600 ext. 88430</b></li>
                </ol>
 
                <h4>PLEASE NOTE: There are TWO different processes for applying, depending on where you live!</h4>
